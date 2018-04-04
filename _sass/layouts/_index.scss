@@ -15,6 +15,11 @@
 .call-out a {
   color: $header-desc-link-color
 }
+#mc_embed_signup { 
+  clear: left;
+  font: 14px Helvetica,Arial,sans-serif;
+  width: 100%;
+}
 // Post listing
 .posts {
   .post-teaser {
