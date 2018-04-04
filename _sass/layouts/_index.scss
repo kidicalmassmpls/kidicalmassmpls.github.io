@@ -15,10 +15,14 @@
 .call-out a {
   color: $header-desc-link-color
 }
-#mc_embed_signup { 
+#mc_embed_signup {
   clear: left;
   font: 14px Helvetica,Arial,sans-serif;
   width: 100%;
+}
+#mc_embed_signup .button {
+  background: #a4a4a4;
+  color: $text-color;
 }
 // Post listing
 .posts {

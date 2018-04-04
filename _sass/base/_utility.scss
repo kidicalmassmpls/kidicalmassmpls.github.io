@@ -16,8 +16,10 @@
 }
 // Buttons
 .button {
+  background: #a4a4a4;
   border-radius: 0.3em;
-  border: 1px solid;
+  // border: 1px solid;
+  color: $text-color;
   display: inline-block;
   margin: 1em 0;
   padding: 0.5em 0.75em;
@@ -28,8 +30,7 @@ a.button {
 .button-link {
   &:hover {
     background: $link-color;
-    border: 1px solid $link-color;
-    color: $background-color;
+    // border: 1px solid $link-color;
     text-decoration: none;
   }
 }
