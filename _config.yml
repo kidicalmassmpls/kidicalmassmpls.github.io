@@ -13,9 +13,11 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Kid-friendly, family-oriented bike rides. Join us each month, May-Oct.</p>
-
-     <p>Sign up below to learn more!</p>
+     <p>
+       Kid-friendly, family-oriented bike rides. Join us each month, May-Oct.
+       <br />
+       Sign up below to learn more!
+     </p>
   header_text_feature_image: assets/img/group_photo.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
