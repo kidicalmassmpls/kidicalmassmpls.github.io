@@ -5,8 +5,14 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Kidical Mass South Minneapolis organizes monthly family-oriented, kid-friendly group bike rides on second Saturdays at 10am, leaving from Lake Hiawatha Park.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Rides will be 1-4 miles in length along bike-friendly roads and bike paths. Routes will be announced in advance, and we'll do our best to visit places with restrooms and nearby food!
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+We'll ride as a group and no one will be left behind!
+
+--
+
+Kidical Mass is a legal, safe and FUN bike ride for kids, kids at heart, and their families. The first ride was held in April 2008 in Eugene, Oregon and has now spread to over a dozen communities throughout North America and beyond. We celebrate the fact that Kids are Traffic Too and aim for family fun.
+
+Learn more at [kidicalmass.org](http://www.kidicalmass.org/)
