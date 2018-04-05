@@ -33,16 +33,33 @@
   .site-nav {
     ul {
       margin: 0;
-      padding: 1em 0 0 0;
+      padding: 0.5em 0 0 0;
       list-style: none;
       line-height: 1.5;
       float: right;
       text-align: right;
     }
     li {
-      display: inline;
+      border-radius: 0.4em;
+      display: inline-block;
       float: left;
       margin-right: 0.4em;
+      padding: 0.5em;
+      background: $link-color;
+    }
+    li a {
+      display: block;
+      color: $background-color;
+    }
+    li:hover {
+      background-color: $text-color;
+      color: $link-color;
+    }
+    li#facebook-link {
+      background-color: $header-desc-background-color;
+    }
+    li#facebook-link a {
+      color: $text-color;
     }
     @media (max-width: 1100px) {
       ul {
