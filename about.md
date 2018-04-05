@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: "assets/img/group_photo.jpg"
 ---
 
 Kidical Mass South Minneapolis organizes monthly family-oriented, kid-friendly group bike rides on second Saturdays at 10am, leaving from Lake Hiawatha Park.
