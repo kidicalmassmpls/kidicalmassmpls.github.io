@@ -18,7 +18,7 @@ theme_settings:
        <br />
        Sign up below to learn more!
      </p>
-  header_text_feature_image: assets/img/group_photo.jpg
+  header_text_feature_image: assets/img/about_photo.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
