@@ -10,8 +10,9 @@
   color: $header-desc-text-color;
 }
 .call-out p {
-  //color: $background-color;
-  background-color: rgba(24, 83, 219, 0.3);
+  background-color: rgba(24,83,219,0.9);
+  border-radius: 0.4em;
+  padding: 0.5em;
 }
 .call-out p:last-child {
   margin-bottom: 0;
