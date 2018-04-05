@@ -40,25 +40,27 @@
       text-align: right;
     }
     li {
+      background-color: $button-color;
       border-radius: 0.4em;
-      display: inline-block;
       float: left;
       margin-right: 0.4em;
-      padding: 0.5em;
-      background: $link-color;
     }
     li a {
+      border-radius: 0.4em;
       display: block;
-      color: $background-color;
+      padding: 0.5em;
     }
     li:hover {
-      background-color: $text-color;
-      color: $link-color;
+      background-color: $link-color;
+    }
+    li a:hover {
+      color: $background-color;
     }
     li#facebook-link {
       background-color: $header-desc-background-color;
     }
-    li#facebook-link a {
+    li#facebook-link a:hover {
+      background-color: $button-color;
       color: $text-color;
     }
     @media (max-width: 1100px) {
