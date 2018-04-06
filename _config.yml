@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://kidicalmassmpls.github.io/"
+url: "http://kidicalmassmpls.org/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
