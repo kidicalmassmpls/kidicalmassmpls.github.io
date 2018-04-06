@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "http://kidicalmassmpls.org/"
+permalink: /:categories/:year/:title
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
