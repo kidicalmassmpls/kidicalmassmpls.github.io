@@ -1,6 +1,20 @@
 ---
 layout: page
 ---
+{% if site.categories.rides %}
+Explanation text
+{% endif %}
+
+{% if site.categories.routes %}
+<p>The routes below, all leaving from Lake Hiawatha Park, follow some popular
+  and safe routes to different parks and activities. We'll use some of these
+  for Kidical Mass rides. Others are just for fun and inspiration!</p>
+<p>In addition to hosting monthy rides, Kidical Mass is invested in getting more
+  people interested in family biking! My hope is that we can build a library of
+  routes for a variety of locations and destinations across the city. If you
+  have ideas or would like to contribute, please let me know!</p>
+<p>---</p>
+{% endif %}
 
 {% for post in site.categories[page.category] %}
   {% if post.title != null %}
