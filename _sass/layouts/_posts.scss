@@ -50,6 +50,10 @@ header {
     .meta {
       color: rgba($feature-image-text-color, .7);
     }
+    .post-title-meta {
+      background-color: rgba(60,60,60,0.6);
+      border-radius: 0.4em;
+    }
   }
   .post-content {
     @extend %padding-regular;
