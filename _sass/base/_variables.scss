@@ -10,14 +10,14 @@ $padding-x-small: 2%;
 
 // Brand colours
 $brand-color: #565656;
-$background-color: #565656;
+$background-color: #3C3C3C;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
 $text-color: #f1f1f1;
-$link-color: #a6d1fd;
-$selection-color: #D4D4D4; // visible when highlighting text
-$button-color: #a4a4a4;
+$link-color: #abd3fb;
+$selection-color: #d4d4d4; // visible when highlighting text
+$button-color: #1853db;
 
 // Tags color
 $tags-color: #b0b0b0;
@@ -33,6 +33,6 @@ $feature-image-text-color: #f1f1f1;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: #34318B;
+$header-desc-background-color: #34318b;
 $header-desc-text-color: #f1f1f1;
-$header-desc-link-color: #02453D;
+$header-desc-link-color: #02453d;
