@@ -22,9 +22,8 @@ Bike racks by the playground.
 ## Turn-by-Turn
 * Leave Lake Hiawatha Park on 27th Ave. heading **north**.
 * Go **right** on 42nd St. and follow this across Hiawatha Ave. all the way to West River Pkwy (where it will dead-end).
-* Go **left** on West River Pkwy to head north on the trail. Follow the trail until you get past Lake Street. *If you're unfamiliar, Lake Street is technically 30th St. There's a big bridge, which you will pass under.*
-* Go **left** at the first curb cut past Lake Street. This is 29th Ave.
+* Go **left** onto the West River Pkwy bike trail (heading **north**). Follow the trail until you get past Lake Street. *If you're unfamiliar, Lake Street is technically 30th St. There's a big bridge, which you will pass under.*
+* Go **left** at the first curb cut past Lake Street. This is 29th St.
 * Quickly go **right** onto Dorman Ave (basically a frontage road).
-* Go **left** on 28th St.
-* Brackett Park will be on your right at 38th Ave.
+* Go **left** on 28th St. Brackett Park will be on your right as you reach 38th Ave.
 * **if you missed Dorman** that's OK! Just take 29th St. and go **right** at 38th Ave. -- you'll hit the park in a block!
