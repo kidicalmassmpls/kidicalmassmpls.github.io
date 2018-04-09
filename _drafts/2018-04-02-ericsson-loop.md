@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Route: Ericsson Loop"
-date: 2018-04-02 06:59
+date: 2018-04-02 06:58
 category: routes
 feature-img: assets/img/routes/ericsson.jpg
 ---
