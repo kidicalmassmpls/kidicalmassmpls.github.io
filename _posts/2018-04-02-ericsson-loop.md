@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Route: Ericsson Loop"
+layout: route
+title: "Family Bike Route: Ericsson Loop"
 date: 2018-04-02 06:58
 category: routes
 feature-img: assets/img/routes/ericsson.jpg
+start: Lake Hiawatha Park
+end: Lake Hiawatha Park
+distance: 1.5 miles
 ---
 This route is designed to be a quick tour of the Ericsson neighborhood, which we made up on the spot during a Halloween ride in 2017. It uses 34th Ave. which isn't really the greatest bike route in the world. However, it is a quick tour for those days when you need to stretch your legs, and just maybe, you happen to be wearing a costume.
 

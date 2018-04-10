@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Route: Powderhorn Park"
+layout: route
+title: "Family Bike Route: Powderhorn Park"
 date: 2018-04-02 07:02
 category: routes
 feature-img: assets/img/routes/powderhorn.jpg
+start: Lake Hiawatha Park
+end: Powderhorn Park
+distance: 2 miles
 ---
 [Powderhorn Park](https://www.minneapolisparks.org/parks__destinations/parks__lakes/powderhorn_park/)! An institution known for its annual May Day festival, Powderhorn has a little bit of everything. A splashpad, a small lake, fishing dock, rolling hills and a playground.
 

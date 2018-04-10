@@ -1,6 +1,6 @@
 ---
 layout: route
-title: "Route: Brackett Park"
+title: "Family Bike Route: Brackett Park"
 date: 2018-04-02 07:01
 category: routes
 feature-img: assets/img/routes/brackett.jpg

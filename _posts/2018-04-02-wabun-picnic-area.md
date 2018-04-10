@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Route: Wabun Picnic Area"
+layout: route
+title: "Family Bike Route: Wabun Picnic Area"
 date: 2018-04-02 07:00
 category: routes
 feature-img: assets/img/routes/wabun.jpg
+start: Lake Hiawatha Park
+end: Wabun Picnic Area (part of Minnehaha Regional Park)
+distance: 2 miles
 ---
 If you've never been, [Wabun](https://www.familyfuntwincities.com/family-fun-idea-wabun-park-picnic-area-wading-pool-in-minneapolis/) is a huge playground with a great splashpad. The main play structure has a foam floor (no rubber chips!), while another area has sand. It's a bit removed from the chaos of [Sea Salt](https://seasalteatery.wordpress.com/) and Minnehaha Falls, but it's still a very popular place, especially because of the great pool.
 
