@@ -6,7 +6,7 @@ category: routes
 feature-img: assets/img/routes/ericsson.jpg
 start: Lake Hiawatha Park
 end: Lake Hiawatha Park
-distance: 1.5 miles
+distance: 2 miles
 ---
 This route is designed to be a quick tour of the Ericsson neighborhood, which we made up on the spot during a Halloween ride in 2017. It uses 34th Ave. which isn't really the greatest bike route in the world. However, it is a quick tour for those days when you need to stretch your legs, and just maybe, you happen to be wearing a costume.
 
@@ -20,7 +20,9 @@ Take 42nd St. east and head right just before Hiawatha Ave., staying on the west
 * Leave Lake Hiawatha Park on 27th Ave. heading **north**.
 * Go **right** on 42nd St. and go up to the block before Hiawatha Ave.
 * Go **right** onto 34th Ave. Head **south** for several blocks, until you reach 47th St.
-* A block after the 4-way stop (46th St.), you'll want to prepare to take a left turn onto a curb cut before the bridge. This will take you onto a bike trail, and down to the creek.
+* A block after the 4-way stop (46th St.), you'll want to prepare to take a left turn onto a curb cut before the bridge.
+* Go **left** across 34th to the curb cut. This will take you onto a bike trail, and down to the creek.
+  * If you can't get left across 34th, thats OK. Take a right onto 47th St. instead, and hop onto the creek trail 2 blocks later, at 32nd Ave.
 * Take a **right** at the bottom of the hill and you'll be going under that bridge. Echo!!
 * Follow the Minnehaha Creek trail (heading **east**) until you reach Lake Hiawatha. Before you get there, you'll cross Nokomis Ave. and 28th Ave.
 * After crossing 28th Ave., bear **right** at the next fork (don't go over the bridge). Follow this trail along the shoreline of Lake Hiawatha back to the park.
