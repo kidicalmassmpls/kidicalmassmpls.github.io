@@ -1,15 +1,18 @@
 ---
-layout: post
+layout: route
 title: "Route: Brackett Park"
 date: 2018-04-02 07:01
 category: routes
 feature-img: assets/img/routes/brackett.jpg
+start: Lake Hiawatha Park
+end: Brackett Field Park
+distance: 4 miles
 ---
 [Brackett Park](https://www.minneapolisparks.org/parks__destinations/parks__lakes/brackett_field_park/) is a classic Minneapolis park in the Seward neighborhood. It's right on the greenway, super close to the river, and it is literally right smack in between [Birchwood Cafe](https://www.birchwoodcafe.com/) and [Hi-Lo Diner](http://www.hi-lo-diner.com/). Just sayin'.
 
 Don't miss the famous rocket! Once a radical climbing structure to the stars, it's now a sculpture due to age (and probably "liability").
 
-## Route Summary
+## Summary
 Take 42nd St. across Hiawatha to all the way to West River Road. Hang a left and follow the river north to 29th St., just past the Lake Street bridge.
 
 At 29th, hop off onto Dorman Ave, which is like a frontage road to the river, and go left on 28th St. Couple more blocks and you're there.
