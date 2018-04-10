@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
+  <header style="background-position: center center; background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+    <div class="post-title-meta">
+      <h1 class="title">{{ page.title }}</h1>
+      {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+    </div>
+  </header>
+  <section class="post-content">
+    {% if page.start and page.end and page.distance %}
+    <div class="route-details">
+      <h2>Route Details</h2>
+      <ul>
+        <li>Start: {{ page.start }}</li>
+        <li>End: {{ page.end }}</li>
+        <li>Distance: {{ page.distance }}</li>
+      </ul>
+    </div>{% endif %}
+
+    <!-- anchor links for route sections -->
+    <ul class="route-nav">
+      <li><a href="#summary">Summary</a></li>
+      <li><a href="#map">Map</a></li>
+      <li><a href="#turn-by-turn">Turn-by-Turn</a></li>
+    </ul>
+    <p>---</p>
+
+    <!-- start post content -->
+    {{ content }}
+  </section>
+  {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
+</article>
+
+<!-- Disqus -->
+{% if site.theme_settings.disqus_shortname %}
+<div class="comments">
+  {% include disqus.html %}
+</div>
+{% endif %}
+
+<!-- Post navigation -->
+{% if site.theme_settings.post_navigation %}
+  {% include post_nav.html %}
+{% endif %}
