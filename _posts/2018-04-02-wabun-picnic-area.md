@@ -10,7 +10,7 @@ distance: 2 miles
 ---
 If you've never been, [Wabun](https://www.familyfuntwincities.com/family-fun-idea-wabun-park-picnic-area-wading-pool-in-minneapolis/) is a huge playground with a great splashpad. The main play structure has a foam floor (no rubber chips!), while another area has sand. It's a bit removed from the chaos of [Sea Salt](https://seasalteatery.wordpress.com/) and Minnehaha Falls, but it's still a very popular place, especially because of the great pool.
 
-## Route Summary
+## Summary
 Take the Minnehaha Creek trail towards the falls (follow the current). Follow the trail all the way -- over Hiawatha Ave., through the roundabout, and past Minnehaha Falls. Hang a right at the 4-way stop (46th Ave.) and go up the hill to the parking lot.
 
 Bike racks by the pool, or on the far side of the playground.

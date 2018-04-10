@@ -10,7 +10,7 @@ distance: 1.7 miles
 ---
 The [Midtown Farmers Market](http://midtownfarmersmarket.org/) (note: not the same as [Midtown Global Market](https://midtownglobalmarket.org/)) is a fun and easy trek through Standish and Corcoran neighborhoods. It's a small market, but usually has some fun and tasty food trucks, and, if you head on the weekends, there's usually some live music, too. If the market food doesn't strike your fancy that day, it's a short hop up 31st St. to [Taco Taxi](http://tacotaximn.com/) and [Mercado Central](http://mimercadocentral.com/). Heading the other way, you'll find [Gandhi Mahal](http://gandhimahal.com/) (one of our faves!) and the East Lake Library if you need a storytime stop.
 
-## Route Summary
+## Summary
 Head through the neighborhood, ending up on 23rd Ave. and 31st St. I like to take 23rd Ave. north across the neighborhood, because it features exclusively 4-way stops. I have heard good things about 24th Ave., too. As with the [Powderhorn route]({% post_url 2018-04-02-powderhorn-park %}), there are a number of routes with quiet streets that can take you there. I'll write the one I like, but this route is ripe for experimentation!
 
 ## Map

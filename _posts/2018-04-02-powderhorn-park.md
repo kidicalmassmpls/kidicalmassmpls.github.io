@@ -12,7 +12,7 @@ distance: 2 miles
 
 We've done Powderhorn in June with Kidical Mass before when our dates have coincided with National Get Outdoors Day, as the park has played host to a wide variety of outdoor activities for kids. But I bet you can go any day of the year and find something to do!
 
-## Route Summary
+## Summary
 This one takes neighborhood streets the whole way. I've got my own take on the Standish streets, which I will share here, but do what works for you. There are a number of bike routes and quiet streets that can get you across the neighborhood.
 
 The goal is to make it to the 17th Ave. bike boulevard. To get there, I like to take 41st St. to Longfellow Ave., crossing Cedar at 40th St. I don't take 40th St. the whole way. While it is technically a bike boulevard, it goes down/up a massive hill next to Sibley Park, which I try and avoid with the kids.

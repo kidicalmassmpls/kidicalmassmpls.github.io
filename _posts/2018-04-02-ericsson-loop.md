@@ -10,7 +10,7 @@ distance: 2 miles
 ---
 This route is designed to be a quick tour of the Ericsson neighborhood, which we made up on the spot during a Halloween ride in 2017. It uses 34th Ave. which isn't really the greatest bike route in the world. However, it is a quick tour for those days when you need to stretch your legs, and just maybe, you happen to be wearing a costume.
 
-## Route Summary
+## Summary
 Take 42nd St. east and head right just before Hiawatha Ave., staying on the west side of the sound wall. This is 34th Ave. Continue on until you reach the creek trail, which you can take back to Lake Hiawatha Park (or wherever else your heart desires).
 
 ## Map
