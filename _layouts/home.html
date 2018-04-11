@@ -26,7 +26,7 @@ layout: default
   {% endif %}
 
   <div class="posts">
-    {% for post in paginator.posts %}
+    {% for post in site.categories.main %}
     <div class="post-teaser">
       <header>
         <h1>
@@ -48,6 +48,7 @@ layout: default
     {% endfor %}
   </div>
 
+<!--
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
@@ -65,3 +66,4 @@ layout: default
   </div>
   {% endif %}
 </div>
+-->
