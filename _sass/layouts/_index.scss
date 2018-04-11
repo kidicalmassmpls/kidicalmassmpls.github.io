@@ -25,10 +25,15 @@
   clear: left;
   font: 14px Helvetica,Arial,sans-serif;
   width: 100%;
-}
-#mc_embed_signup .button {
-  background: #a4a4a4;
-  color: $text-color;
+
+  .button {
+    background-color: $button-color;
+    color: $text-color;
+  }
+  .button:hover {
+    background-color: $link-color;
+    color: $background-color;
+  }
 }
 // Post listing
 .posts {
