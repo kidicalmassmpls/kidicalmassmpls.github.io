@@ -12,8 +12,10 @@ layout: default
       </p>
     </div>
   </header>
-  <section class="post-content">{{ content }}</section>
-  {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
+  <section class="post-content">
+    <div class="post-body">{{ content }}</div>
+    <div class="post-tags">{% include tags_list.html tags=page.tags tag_count=page.tags.size %}</div>
+  </section>
 </article>
 
 <!-- Disqus -->
