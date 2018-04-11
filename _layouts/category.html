@@ -2,7 +2,7 @@
 layout: page
 ---
 {{ page.intro }}
-{{% if page.intro %}}<p>---</p>{% endif %}
+{% if page.intro %}<p>---</p>{% endif %}
 
 {% for post in site.categories[page.category] %}
   {% if post.title != null %}
@@ -14,9 +14,6 @@ layout: page
       </h3>
       <div class="meta">
         {{ post.date | date: "%B %-d, %Y" }}
-      </div>
-      <div class="excerpt">
-        {{ post.excerpt }}
       </div>
     </div>
   {% endif %}
