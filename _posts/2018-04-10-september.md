@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Sept 8: Haulin' at the Farmers' Market"
+title: "Sept 8: Minneapolis Monarch Festival"
 date: 2018-04-10 07:01
 category: rides
-feature-img: assets/img/routes/midtown-market.jpg
+feature-img: assets/img/monarch_fest.jpg
 ---
-The too-quickly-approaching fall reminds us to take advantage of hopefully-still-warm weather, and to check out the harvest at the Midtown Farmers Market.
+The too-quickly-approaching fall reminds us to take advantage of hopefully-still-warm weather, and to celebrate the Monarch migration at the 10th annual Minneapolis Monarch Festival at Lake Nokomis Community Center.
 
-This route is all quiet neighborhood streets, and almost entirely 4-way stops.
+We will ride a loop around the lake before stopping at the Nokomis Community Center for the event.
 
-[Route Details]({% post_url 2018-04-02-midtown-farmers-market %})
-
-RSVP on Facebook (coming soon)
+[RSVP on Facebook](https://www.facebook.com/events/1937855886277077/)
 
 [Sign up for email reminders](http://eepurl.com/do4hJX)
