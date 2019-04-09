@@ -16,6 +16,11 @@
 	</div>
 	<nav class="site-nav">
 		<ul>
+			<li>
+				<a class="page-link" href="{% post_url 2018-04-11-launch %}">
+					About
+				</a>
+			</li>
 			{% for page in site.pages %}
 			{% if page.title and page.hide != true %}
 			<li>
